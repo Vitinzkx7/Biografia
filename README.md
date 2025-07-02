@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor front-end e estou cursando o 1º período do Bacharelado em Ciências da Computação. Apaixonado por tecnologia, acredito na união entre teoria e prática para criar soluções inovadoras que possam transformar e ajudar a sociedade.
+Sou desenvolvedor front-end e estou cursando o 2º período do Bacharelado em Ciências da Computação. Apaixonado por tecnologia, acredito na união entre teoria e prática para criar soluções inovadoras que possam transformar e ajudar a sociedade.
 
 ---
 
